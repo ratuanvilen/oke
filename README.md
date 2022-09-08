@@ -4,4 +4,4 @@ NPM     : 2106752035
 
 Kelas   : B
 
-Hobi    : Dengerin Lagu
+Hobi    : Bobo
